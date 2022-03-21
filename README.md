@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-xyz
 - 👀 I’m currently interested in computer vision and robotics
-- 🌱 I’m currently learning OpenCV, MatPlotLib
+- 🌱 I’m currently learning OpenCV, React
 
 <!---
 Tom-xyz/Tom-xyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
