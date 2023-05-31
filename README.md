@@ -51,7 +51,5 @@
 <p><a href="https://www.buymeacoffee.com/tomxyz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomxyz" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tom-xyz&show_icons=true&locale=en&theme=tokyonight-duo" alt="Tom-xyz" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tom-xyz&theme=tokyonight-duo" alt="Tom-xyz" /></p>
 
