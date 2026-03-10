@@ -3,12 +3,8 @@
 
 - 👯 I’m looking to collaborate on **architecture and large scale cloud engineering problems**
 - 🌱 I’m currently learning **OpenCV, React Native and Azure**
-- 💬 Ask me about **AWS, Python, Spark and petabyte scale systems**
-- 📫 How to reach me:
+- 💬 Ask me about **AWS, Python, Spark, Databricks and petabyte scale systems**
 
-<div> <a href="https://twitter.com/Tom3711b" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thomasnboyle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/tom_xyz" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="tom_xyz" height="28" width="30" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
