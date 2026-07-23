@@ -14,11 +14,11 @@
 
 **Who I am**
 
-Software Engineer with relentless standards for quality and delivery. I build tools, pipelines, and systems that are meant to last — from terminal utilities to cloud-scale data infrastructure.
+Software Engineer with relentless standards for quality and delivery. I build tools, pipelines, and systems, from terminal utilities to cloud-scale data infrastructure.
 
 Currently deep in **Data Engineering** and **AI Agent Orchestration**, with a strong foundation in AWS, Spark, and Kubernetes.
 
-- 🌱 &nbsp;Working toward Databricks Certified Data Engineer Associate
+- 🌱 &nbsp;Databricks Certified Data Engineer Associate
 - 💬 &nbsp;Ask me about AWS, Terraform, Spark, or building CLI tools in Python
 - 🔗 &nbsp;[boyledalorzo.com](https://boyledalorzo.com)
 
